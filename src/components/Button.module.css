@@ -1,0 +1,22 @@
+.button {
+  background-color: aqua;
+  border: none;
+  width: 90px;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 10px 0px;
+  font-weight: bold;
+}
+
+.button:hover {
+  cursor: pointer;
+  color: white;
+  transition: 0.3s;
+}
+.button:disabled {
+  opacity: 0.5;
+  color: black;
+  cursor: not-allowed;
+}
+
+
