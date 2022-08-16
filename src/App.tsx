@@ -21,6 +21,11 @@ function App() {
                 <Button callBack={onClickIncHandler} name={'inc'}/>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
+                <h1>{count}</h1>
+                <h1>{count}</h1>
+                <h1>{count}</h1>
+                <Button callBack={onClickIncHandler} name={'inc'}/>
+                <Button callBack={onClickResetHandler} name={'reset'}/>
             </div>
         </div>
     );
