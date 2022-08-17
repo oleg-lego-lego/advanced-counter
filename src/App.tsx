@@ -33,6 +33,9 @@ function App() {
                 <h1>{count}</h1>
                 <Button callBack={onClickIncHandler} name={'inc'}/>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
+                <div>
+                    <h2>oleg</h2>
+                </div>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
                 <h1>{count}</h1>
