@@ -28,6 +28,8 @@ function App() {
             </div>
             <div className={s.currentValue}>
                 <h1>{count}</h1>
+                <Button name={'123'} callBack={() => {}}/>
+                <h1>{count}</h1>
                 <h1>{count}</h1>
                 //sdfsddsfv
                 <h1>{count}</h1>
