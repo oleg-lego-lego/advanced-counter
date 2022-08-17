@@ -36,6 +36,9 @@ function App() {
                 <h1>{count}</h1>
                 <Button callBack={onClickResetHandler} name={'reset'}/>
                 <h1>asdasd</h1>
+                <div>
+                    <h1>rew</h1>
+                </div>
             </div>
         </div>
     );
