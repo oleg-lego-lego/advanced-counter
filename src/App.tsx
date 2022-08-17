@@ -38,6 +38,8 @@ function App() {
                 <h1>asdasd</h1>
                 <div>
                     <h1>rew</h1>
+                    <h1>{count}</h1>
+                    <Button callBack={onClickIncHandler} name={'inc'}/>
                 </div>
             </div>
         </div>
